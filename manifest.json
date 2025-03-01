@@ -1,11 +1,11 @@
 {
-    "name": "cod_zombies",
-    "short_name": "cod_zombies",
+    "name": "experience_xcloud",
+    "short_name": "experience_xcloud",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Unofficial Companion App for COD Zombies",
+    "description": "SuperApp focused on Experience XCloud",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
