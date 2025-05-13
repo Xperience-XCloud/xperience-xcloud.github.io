@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/CybertimeUP/experience-xcloud/blob/main/resources/logos/experience-xcloud.png" width="256"/>  
+    <img src="https://github.com/CybertimeUP/xperience-xcloud/blob/main/resources/logos/experience-xcloud.png" width="256"/>  
     <h1>Xperience xCloud</h1>
     <!-- Latest Version Badge -->
     <a href="https://github.com/redphx/better-xcloud/releases"><img src="https://img.shields.io/github/v/release/redphx/better-xcloud?label=latest" alt="Latest version" /></a>
@@ -27,13 +27,13 @@ This script makes me spend more time with xCloud, and I hope the same thing happ
 If you like this project please give it a 🌟. Thank you 🙏.
 
 ## How to install
-Visit the [home page](https://experience-xcloud.github.io) to know how to install Better xCloud on your device.
+Visit the [home page](https://xperience-xcloud.github.io) to know how to install Better xCloud on your device.
 
 ## Full documentations
-- For the full details please visit: [**experience-xcloud.github.io**](https://experience-xcloud.github.io)  
+- For the full details please visit: [**xperience-xcloud.github.io**](https://xperience-xcloud.github.io)  
 - [Demo video](https://youtu.be/hyp69Jrb2sQ)
 
-⚠️ Please DO NOT report **Better xCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/xcloud/). Report bugs in [Issues](https://github.com/redphx/better-xcloud/issues) or [Telegram channel](https://t.me/experiencexcloud) instead.
+⚠️ Please DO NOT report **Better xCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/xcloud/). Report bugs in [Issues](https://github.com/redphx/better-xcloud/issues) or [Telegram channel](https://t.me/xperiencexcloud) instead.
 
 ## Donation
 If you think this project is useful and want to support future developments, please consider making a donate via [my Ko-fi page](https://ko-fi.com/jonypeixoto).  
