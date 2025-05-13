@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/CybertimeUP/experience-xcloud/blob/main/resources/logos/experience-xcloud.png" width="256"/>  
-    <h1>Experience xCloud</h1>
+    <h1>Xperience xCloud</h1>
     <!-- Latest Version Badge -->
     <a href="https://github.com/redphx/better-xcloud/releases"><img src="https://img.shields.io/github/v/release/redphx/better-xcloud?label=latest" alt="Latest version" /></a>
     <!-- Total Downloads Badge -->
